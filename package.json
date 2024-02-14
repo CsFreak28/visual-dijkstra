@@ -1,0 +1,15 @@
+{
+  "name": "visual-dijkstra",
+  "version": "1.0.0",
+  "description": "A p5.js Dijkstra's shortest path algorithm visualization\r * [Try it out](https://samuelarbibe.github.io/visual-dijkstra/)",
+  "main": "main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

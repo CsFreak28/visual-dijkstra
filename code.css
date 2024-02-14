@@ -1,0 +1,15 @@
+.theBtn {
+  background-color: #0075ff;
+  border-radius: 50px;
+  border: none;
+  color: white;
+  padding: 0.5rem 2rem;
+}
+
+.moveRight {
+  margin-left: -4rem;
+}
+.theBtn:focus {
+  border: none;
+  outline: none;
+}
